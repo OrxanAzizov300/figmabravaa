@@ -68,7 +68,7 @@ ul{
 
 .box1{
     margin-top: 30px;
-    background-image: url(./Rectangle\ 4227.png);
+    background-image: url(./all_photos/Rectangle\ 4227.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -78,7 +78,7 @@ ul{
 .box2{
     transition: all 0.2s;
     cursor: pointer;
-    background-image: url(./Group\ 11211.png);
+    background-image: url(./all_photos/Group\ 11211.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -91,7 +91,7 @@ ul{
 .box3{
     transition: all 0.2s;
     cursor: pointer;
-    background-image: url(./Group\ 11213.png);
+    background-image: url(./all_photos/Group\ 11213.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -128,7 +128,7 @@ ul{
 .second-page-img-1{
     transition: all 0.2s;
     margin-top: 40px;
-    background-image: url(./unsplash_0Zx1bDv5BNY.png);
+    background-image: url(./all_photos/unsplash_0Zx1bDv5BNY.png);
     position: absolute;
     background-size: cover;
     background-repeat: no-repeat;
@@ -139,7 +139,7 @@ ul{
 }
 .second-page-img-2{
     transition: all 0.2s;
-    background-image: url(./unsplash_0Zx1bDv5BNY\ \(1\).png);
+    background-image: url(./all_photos/unsplash_0Zx1bDv5BNY\ \(1\).png);
     position: absolute;
     background-size: cover;
     background-repeat: no-repeat;
@@ -429,14 +429,14 @@ ul{
 }
 .sekil-1{
     position: absolute;
-    background-image: url(./Rectangle\ 4257.png);
+    background-image: url(./all_photos/Rectangle\ 4257.png);
     width: 120px;
     height: 315px;
     top: 200px;
 }
 .sekil-2{
     position: absolute;
-    background-image: url(./Rectangle\ 4258.png);
+    background-image: url(./all_photos/Rectangle\ 4258.png);
     width: 149px;
     height: 241px;
     left: 190px;
@@ -444,7 +444,7 @@ ul{
 }
 .sekil-3{
     position: absolute;
-    background-image: url(./Rectangle\ 4259.png);
+    background-image: url(./all_photos/Rectangle\ 4259.png);
     width: 191px;
     height: 225px;
     left: 255px;
@@ -452,7 +452,7 @@ ul{
 }
 .sekil-4{
     position: absolute;
-    background-image: url(./Rectangle\ 4260.png);
+    background-image: url(./all_photos/Rectangle\ 4260.png);
     width: 342px;
     height: 438px;
     left: 516px;
@@ -460,7 +460,7 @@ ul{
 }
 .sekil-5{
     position: absolute;
-    background-image: url(./Rectangle\ 4261.png);
+    background-image: url(./all_photos/Rectangle\ 4261.png);
     width: 181px;
     height: 242px;
     left: 743px;
@@ -468,7 +468,7 @@ ul{
 }
 .sekil-6{
     position: absolute;
-    background-image: url(./Rectangle\ 4265.png);
+    background-image: url(./all_photos/Rectangle\ 4265.png);
     width: 149px;
     height: 241px;
     left: 994px;
@@ -476,7 +476,7 @@ ul{
 }
 .sekil-7{
     position: absolute;
-    background-image: url(./Rectangle\ 4266.png);
+    background-image: url(./all_photos/Rectangle\ 4266.png);
     width: 191px;
     height: 225px;
     left: 1059px;
@@ -484,7 +484,7 @@ ul{
 }
 .sekil-8{
     position: absolute;
-    background-image: url(./Rectangle\ 4264.png);
+    background-image: url(./all_photos/Rectangle\ 4264.png);
     width: 120px;
     height: 315px;
     right: 0px;
@@ -492,7 +492,7 @@ ul{
 }
 .login-page{
     margin-top: 200px;
-    background-image: url(./Rectangle\ 2195.png);
+    background-image: url(./all_photos/Rectangle\ 2195.png);
     height: 670px;
     background-size: cover;
     background-repeat: no-repeat;
