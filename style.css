@@ -14,6 +14,10 @@ ul {
   gap: 10px;
   font-size: 18px;
 }
+.header-btns{
+  display: flex;
+  justify-content: flex-end;
+}
 .header-btns a {
   text-decoration: none;
   color: black;
@@ -594,7 +598,7 @@ textarea {
 }
 .section-six{
     background-color: #E8EFF4;
-    height: 510px;
+    height: 700px;
 }
 .page-six {
   padding-top:100px;
@@ -652,11 +656,14 @@ textarea {
         padding-bottom: 50px;
     }
 }
+
 .contact-us .col-4{
+    display: flex;
+    justify-content: center;
     gap: 20px;
 }
 .last-page{
-    height: 500px;
+    height: 550px;
     background-color: #0C1623;
     color: white;
     h2{
@@ -677,6 +684,13 @@ textarea {
     justify-content: center;
     gap: 30px;
     
+}
+.last-page .col-4{
+  display: flex;
+  justify-content: center;
+}
+.bolme1,.bolme2,.bolme3{
+  margin: 20px;
 }
 .last-page-buttons button{
     transition: all 0.2s;
